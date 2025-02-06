@@ -1,11 +1,11 @@
 body {
     text-align: center;
 
-    font-family: 'Geneva';
-
-    background:lightskyblue;
+    font-family: 'Papyrus';
+    background-image: linear-gradient(pink, purple);
+    
 }
-
 img {
-    width: 600px;
+    width: 500px;
+    border-radius: 8px;
 }
